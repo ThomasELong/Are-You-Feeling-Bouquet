@@ -25,5 +25,43 @@
             "color": "Blue",
             "id": 5
          }
+    ],
+
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Flowershop",
+            "city": "Franklin",
+            "state": "TN",
+            "address": "123 Main St."
+        },
+        {
+            "id": 2,
+            "name": "Lucy's Flowers",
+            "city": "Columbia",
+            "state": "TN",
+            "address": "1200 1st St."
+        },
+        {
+            "id": 3,
+            "name": "Corner Flowers",
+            "city": "Nashville",
+            "state": "TN",
+            "address": "410 3rd Ave."
+        },
+        {
+            "id": 4,
+            "name": "Flowers 'N Things",
+            "city": "Brentwood",
+            "state": "TN",
+            "address": "678 Jones Pkwy"
+        },
+        {
+            "id": 5,
+            "name": "Flowers-To-Go",
+            "city": "Murfreesboro",
+            "state": "TN",
+            "address": "3500 Clark Blvd."
+        }
     ]
 }

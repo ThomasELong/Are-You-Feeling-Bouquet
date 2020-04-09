@@ -1,8 +1,29 @@
 {
     "flowers": [
         {
-           "commonName": ,
-           "color":
-        }
+           "commonName": "Common Daisy",
+           "color": "White",
+           "id": 1
+        },
+        {
+            "commonName": "Dahlia",
+            "color": "Red",
+            "id": 2
+         },
+         {
+            "commonName": "Azalea",
+            "color": "Pink",
+            "id": 3
+         },
+         {
+            "commonName": "Rose",
+            "color": "Red",
+            "id": 4
+         },
+         {
+            "commonName": "Iris",
+            "color": "Blue",
+            "id": 5
+         }
     ]
 }
